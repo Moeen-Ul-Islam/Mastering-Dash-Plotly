@@ -1,4 +1,4 @@
-# Masteri Dash plolty
+# Master Dash framework series
 ####  Follow the below resources to master the Dash framework along with python, numpy, pandas, plotly etc
 
 
