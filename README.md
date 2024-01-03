@@ -1,7 +1,5 @@
-# Mastering-Dash-Plotly
-This repo contains all the code examples explained/discussed in the  video series.
-
-## Follow the youtube series here: 
+# Masteri Dash plolty
+####  Follow the below resources to master the Dash framework along with python, numpy, pandas, plotly etc
 
 
 | Title | Description | Youtube Link | 
